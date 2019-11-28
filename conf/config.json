@@ -1,0 +1,7 @@
+{ 
+    "wspath":"/market",
+    "port":"8090",
+    "loglevel":"info",
+    "mongourl":"",
+    "redisurl":""
+}

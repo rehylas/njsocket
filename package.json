@@ -1,0 +1,20 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+    "dev": "node index.js"
+  },
+  "author": "hylas",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "loglevel": "^1.6.6",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
